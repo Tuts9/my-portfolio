@@ -21,6 +21,13 @@ body {
     min-height: 100vh;
 }
 
+.bg {
+    position: fixed;
+    min-height: 100vh;
+    min-width: 100vw;
+    z-index: -3;
+}
+
 .background {
     position: fixed;
     top: 0;
