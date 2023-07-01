@@ -36,9 +36,9 @@
         /* color: var(--font-color); */
     }
     .mobile-menu .login-button button {
-        width: 30%;
-        position: relative;
-        left: 255px;
+        width: 100%;
+        /* position: relative;
+        left: 255px; */
         color: var(--font-color);
     }
     .open {
